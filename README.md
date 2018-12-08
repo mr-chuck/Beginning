@@ -1,3 +1,3 @@
 # Beginning
 
-This is just the sample
+This is just the sample and for training purpose
